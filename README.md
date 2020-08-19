@@ -52,7 +52,7 @@
 [twitter]: https://twitter.com/ajeetjaiswal103
 [youtube]: https://www.youtube.com/channel/UCkaU6QAtDIA9B-T_5Xtvueg?view_as=subscriber
 [instagram]: https://www.instagram.com/ajeetjaiswal_/
-[linkedin]: www.linkedin.com/in/ajeetjaiswal
+[linkedin]: https://www.linkedin.com/in/ajeetjaiswal
 [webdevplaylist]: https://youtu.be/-dC0yVpEygw
 [jsplaylist]: https://youtu.be/-dC0yVpEygw
 [cssplaylist]: https://youtu.be/-dC0yVpEygw
