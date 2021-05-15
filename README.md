@@ -1,15 +1,12 @@
 ### Hi there, I'm Ajeet 👋
 
-## I'm a Developer, Data Scientist , Gamer!
+## I'm a Developer, Gamer!
 
-- 🔭 I’m currently working on a Tensorflow!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on a everything!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play Fluit / Guitar
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/29ezm42ofzzntsopi8hrceyuc)
+
 
 ### Connect with me:
 
